@@ -1,12 +1,48 @@
 # suren-vs-code-extensionspack-2025-12-28 README
 
-## Working with Markdown
+## VS Code Extension Pack
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+[Publishing Extensions | Visual Studio Code Extension API](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
+```
+npm install -g @vscode/vsce
+
+nvm install 22.12.0
+npm i -g yo
+npm install -g yo generator-code
+```
+
+
+## VS Code extensions
+
+```
+GitLens
+git blame
+git history
+git graph (vs built-in?)
+GitLess
+
+Theme
+Atom One X Github - Light Gray
+Palenight Theme
+vscode-icons
+
+Draw.io Integration
+vscode-pdf
+XML
+
+Live Server
+poor-mans-t-sql-formatter-pg
+PowerShell
+
+
+C#
+C# Dev Kit
+.NET Install Tool
+Dev Containers
+Container Tools
+```
 
 ## For more information
 
