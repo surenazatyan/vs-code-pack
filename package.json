@@ -1,0 +1,29 @@
+{
+  "name": "suren-vs-code-extensionspack-2025-12-28",
+  "displayName": "Suren-vs-code-extensionspack-2025-12-28",
+  "description": "Theme Icons and Helper Tools NET",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "donjayamanne.githistory", 
+    "eamodio.gitlens", 
+    "github.copilot", 
+    "github.copilot-chat", 
+    "hediet.vscode-drawio", 
+    "ms-azuretools.vscode-containers", 
+    "ms-dotnettools.csdevkit", 
+    "ms-dotnettools.csharp", 
+    "ms-dotnettools.vscode-dotnet-runtime", 
+    "ms-vscode-remote.remote-containers", 
+    "ms-vscode.powershell", 
+    "piotrgredowski.poor-mans-t-sql-formatter-pg", 
+    "redhat.vscode-xml", 
+    "tomoki1207.pdf", 
+    "vscode-icons-team.vscode-icons"
+  ]
+}
