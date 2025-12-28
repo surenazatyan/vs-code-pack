@@ -6,6 +6,8 @@
 [Publishing Extensions | Visual Studio Code Extension API](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 
 ```
+code --install-extension "C:\path\to\suren-vs-code-extensionspack-2025-12-28-0.0.1.vsix"
+
 npm install -g @vscode/vsce
 
 nvm install 22.12.0
