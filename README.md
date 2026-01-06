@@ -8,9 +8,10 @@
 ```
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 
-npm install -g @vscode/vsce
+nvm install 25.2.1
+npm install -g npm@11.7.0
 
-nvm install 22.12.0
+npm install -g @vscode/vsce
 npm i -g yo
 npm install -g yo generator-code
 
