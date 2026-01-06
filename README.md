@@ -6,13 +6,16 @@
 [Publishing Extensions | Visual Studio Code Extension API](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 
 ```
-code --install-extension "C:\path\to\suren-vs-code-extensionspack-2025-12-28-0.0.1.vsix"
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 
 npm install -g @vscode/vsce
 
 nvm install 22.12.0
 npm i -g yo
 npm install -g yo generator-code
+
+code --install-extension "C:\path\to\suren-vs-code-extensionspack-2025-12-28-0.0.1.vsix"
+
 ```
 
 
